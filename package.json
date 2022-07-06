@@ -1,0 +1,16 @@
+{
+  "name": "vuepress",
+  "version": "1.0.0",
+  "description": "wrj-ui文档站",
+  "main": "index.js",
+  "repository": "https://github.com/WangRujian0321/w-ui",
+  "author": "https://github.com/WangRujian0321",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
